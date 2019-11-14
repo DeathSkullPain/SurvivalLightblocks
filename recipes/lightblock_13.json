@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "survival_light_blocks:light_block_13"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "light_block",
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:torch"
+      }
+    },
+    "result": {
+      "item": "minecraft:light_block",
+      "data": 13,
+      "count": 1
+    }
+  }
+}

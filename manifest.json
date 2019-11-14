@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "[Beta 0.0.1] Survival Lightblocks: craftable survival lightblocks from torches. Requires experimental gameplay enabled.",
+        "name": "Survival Lightblocks [Beta 0.0.1]",
+        "uuid": "384d2756-feb8-11e9-8f0b-362b9e155667",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "[Beta 0.0.1 module] Survival Lightblocks: craftable survival lightblocks from torches. Requires experimental gameplay enabled.",
+            "type": "data",
+            "uuid": "384d2b52-feb8-11e9-8f0b-362b9e155667",
+            "version": [0, 0, 4]
+        }
+    ]
+}
