@@ -28,3 +28,6 @@ After enabling this addon (be sure to enable experimental gameplay) lightblocks 
 9 torches gives a level 15 (max) lightblock
 
 Please see the Minecraft Wiki for usage.  I have also created a video tutorial.
+
+## License
+ISC and CC0
